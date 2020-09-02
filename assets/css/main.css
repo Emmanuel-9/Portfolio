@@ -3219,3 +3219,8 @@ input, select, textarea {
 			}
 
 	}
+	.row{
+		padding: 30px;
+		padding-left: 50px;
+
+	}
