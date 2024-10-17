@@ -1,7 +1,7 @@
 /* ==  Typing Animation  == */
 var typed = new Typed(".typing", {
-    strings:["Full-Stack Developer","Odoo Functional Consultant", "Junior DevOps"],
+    strings:["Full-Stack Developer","Odoo Functional Consultant", "DevOps Engineer"],
     typeSpeed: 100,
-    BackSpeed: 8,
+    BackSpeed: 60,
     loop:true
 })
